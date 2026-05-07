@@ -49,4 +49,5 @@ Renombrar un archivo
 ### git rm nombreArchivo
 Eliminar un archivo
 
-### prueba
+### git push
+Subir los cambios
